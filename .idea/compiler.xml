@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configJaspy" />
+        <module name="configProfiles" />
+        <module name="configDemo" />
+        <module name="configAutoRefresh" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="configAutoRefresh" target="1.8" />
+      <module name="configDemo" target="1.8" />
+      <module name="configJaspy" target="1.8" />
+      <module name="configProfiles" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="configAutoRefresh" options="-parameters" />
+      <module name="configDemo" options="-parameters" />
+      <module name="configJaspy" options="-parameters" />
+      <module name="configProfiles" options="-parameters" />
+    </option>
+  </component>
+</project>

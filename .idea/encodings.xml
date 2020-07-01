@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/configAutoRefresh/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configAutoRefresh/src/main/resources/bootstrap.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configDemo/src/main/resources/bootstrap.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configJaspy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configJaspy/src/main/resources/bootstrap.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configProfiles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configProfiles/src/main/resources/bootstrap-dev.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configProfiles/src/main/resources/bootstrap-prod.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configProfiles/src/main/resources/bootstrap.yml" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
